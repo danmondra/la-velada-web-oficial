@@ -60,5 +60,36 @@ export const LANDING_PAGE = {
     'footer.all_rights_reserved': 'All rights reserved.',
     'footer.instagram_logo': 'Instagram Logo',
     'footer.x_logo': 'X Logo, previously known as Twitter'
+  },
+  ca: {
+    'meta.description': 'Esdeveniment de boxa entre streamers i creadors de contingut, organitzat per Ibai Llanos',
+    'meta.title': "La Vetllada 4 - Esdeveniment de Boxa d'Ibai Llanos",
+    'meta.keywords': "vetllada, streamers, creadors, Ibai, boxa, midudev",
+    'meta.og:image': '/og.webp',
+    'meta.og:site_name': "La Vetllada 4",
+    'meta.og:locale': 'es_ES',
+
+    'hero.presentation_of_velada': 'Presentació de la Vetllada de l\'Any IV',
+    'hero.presentation_of': 'Presentació de la',
+
+    'principal_date.presentation_event': 'Esdeveniment de Presentació',
+    'principal_date.victoria_theater': 'Teatre Victoria (Barcelona)',
+    'principal_date.available_tickets': 'Entrades exhaurides',
+    'principal_date.add_to_calendar': 'Afegir al calendari',
+
+    'info.follow_it_in_stream': 'Segueix-ho en directe twitch.tv/ibai',
+    'info.presentation_interview_and_face_to_face': 'Presentació, Pesatge, Entrevista i Cara a Cara',
+    'info.with_presence_of_boxers': 'Amb la presència dels boxejadors i boxejadores',
+
+    'countdown.are_still_missing': 'Per a l\'Esdeveniment de Presentació falten...',
+    'countdown.days': 'Dies',
+    'countdown.hours': 'Hores',
+    'countdown.minutes': 'Minuts',
+    'countdown.seconds': 'Segons',
+
+    'footer.la_velada_of_year': '© 2024 La Vetllada de l\'Any',
+    'footer.all_rights_reserved': 'Tots els drets reservats.',
+    'footer.instagram_logo': 'Logotip d\'Instagram',
+    'footer.x_logo': 'Logotip de X, prèviament conegut com Twitter'
   }
 } as const

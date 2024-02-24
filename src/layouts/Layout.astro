@@ -7,7 +7,7 @@ interface Props {
 
 import { LANDING_PAGE } from "@/i18n/landing-page";
 import { useTranslations } from "@/i18n/useTranslations";
-import { Languages } from "@/i18n/languages";
+import { type Languages } from "@/i18n/languages";
 
 const { lang } = Astro.props
 const t = useTranslations(LANDING_PAGE, lang, 'meta')
